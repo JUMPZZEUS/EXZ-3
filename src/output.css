@@ -570,16 +570,8 @@ video {
   width: 100;
 }
 
-.w-\[30\] {
-  width: 30;
-}
-
 .w-\[30\%\] {
   width: 30%;
-}
-
-.list-none {
-  list-style-type: none;
 }
 
 .content-center {
