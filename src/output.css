@@ -566,6 +566,10 @@ video {
   width: ;
 }
 
+.w-\[100\] {
+  width: 100;
+}
+
 .w-\[30\%\] {
   width: 30%;
 }
@@ -580,6 +584,10 @@ video {
 
 .justify-center {
   justify-content: center;
+}
+
+.gap-10 {
+  gap: 2.5rem;
 }
 
 .gap-16 {
@@ -626,10 +634,6 @@ video {
 
 .pt-10 {
   padding-top: 2.5rem;
-}
-
-.pt-1 {
-  padding-top: 0.25rem;
 }
 
 .pt-14 {
@@ -692,8 +696,4 @@ video {
 .text-\[\#703412\] {
   --tw-text-opacity: 1;
   color: rgb(112 52 18 / var(--tw-text-opacity, 1));
-}
-
-.text-\[703412\] {
-  color: 703412;
 }
