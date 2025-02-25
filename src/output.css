@@ -596,29 +596,18 @@ video {
   background-color: rgb(254 251 241 / var(--tw-bg-opacity, 1));
 }
 
-.p-\[\] {
-  padding: ;
-}
-
+ 
 .p-\[100px\] {
   padding: 100px;
 }
-
-.py-\[\] {
-  padding-top: ;
-  padding-bottom: ;
-}
+ 
 
 .py-\[100px\] {
   padding-top: 100px;
   padding-bottom: 100px;
 }
 
-.px-\[\] {
-  padding-left: ;
-  padding-right: ;
-}
-
+ 
 .px-\[100px\] {
   padding-left: 100px;
   padding-right: 100px;
@@ -666,11 +655,7 @@ video {
 .pt-52 {
   padding-top: 13rem;
 }
-
-.pt-\[\] {
-  padding-top: ;
-}
-
+ 
 .pt-\[20px\] {
   padding-top: 20px;
 }
@@ -717,6 +702,4 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
 }
 
-.text-\[\] {
-  color: ;
-}
+ 
