@@ -570,8 +570,8 @@ video {
   width: 100;
 }
 
-.list-none {
-  list-style-type: none;
+.w-\[30\%\] {
+  width: 30%;
 }
 
 .content-center {
@@ -608,7 +608,92 @@ video {
   background-color: rgb(254 251 241 / var(--tw-bg-opacity, 1));
 }
 
+.pt-96 {
+  padding-top: 24rem;
+}
+
+.pt-80 {
+  padding-top: 20rem;
+}
+
+.pt-64 {
+  padding-top: 16rem;
+}
+
+.pt-52 {
+  padding-top: 13rem;
+}
+
+.pl-16 {
+  padding-left: 4rem;
+}
+
+.pt-20 {
+  padding-top: 5rem;
+}
+
+.pt-10 {
+  padding-top: 2.5rem;
+}
+
+.pt-14 {
+  padding-top: 3.5rem;
+}
+
+.pt-44 {
+  padding-top: 11rem;
+}
+
+.pt-4 {
+  padding-top: 1rem;
+}
+
+.pt-40 {
+  padding-top: 10rem;
+}
+
+.pt-6 {
+  padding-top: 1.5rem;
+}
+
+.pl-10 {
+  padding-left: 2.5rem;
+}
+
+.pt-24 {
+  padding-top: 6rem;
+}
+
+.text-\[100px\] {
+  font-size: 100px;
+}
+
+.text-\[80px\] {
+  font-size: 80px;
+}
+
+.text-\[70px\] {
+  font-size: 70px;
+}
+
+.text-\[20px\] {
+  font-size: 20px;
+}
+
+.text-\[10px\] {
+  font-size: 10px;
+}
+
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\] {
+  color: ;
+}
+
+.text-\[\#703412\] {
+  --tw-text-opacity: 1;
+  color: rgb(112 52 18 / var(--tw-text-opacity, 1));
 }
